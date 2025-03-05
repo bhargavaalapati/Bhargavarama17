@@ -2,7 +2,7 @@
 _A brief description of your project._  
 
  🚀 **Live Demo 
-[Click here to view the deployed project](#)  
+[Click here to view the deployed project](https://bhargavaalapati.github.io/Bhargavarama17/index.html)  
 
 ## 📂 **Project Structure**  
 ```
